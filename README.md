@@ -31,7 +31,7 @@ $ apt-get upgrade -y
 $ pkg install git -y
 ```
 ```
-$ git clone 
+$ git clone https://github.com/tamil24375/tamil-load.git
 ```
 ```
 $ ls
